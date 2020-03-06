@@ -1,0 +1,94 @@
+::ng-deep .svd_container .svd-light-bg-color .sv_default_css{
+    font-family: 'Nunito,sans-serif';
+}
+
+::ng-deep .svd_container.svd_container .btn-primary {
+    /* color: rgb(255, 255, 255);
+    background-color: #3f6ad8;
+    border-color: #3f6ad8; */
+    color: #fff;
+    background-color: #727cf5;
+    border-color: #727cf5;
+    box-shadow: 0 16px 26px -10px rgba(63,106,216,0.56), 
+                0 4px 25px 0px rgba(0,0,0,0.12), 
+                0 8px 10px -5px rgba(63,106,216,0.2);
+}
+
+::ng-deep .svd_container.svd_container .btn-primary:hover {
+    color: #fff;
+    background-color: #4e5bf2;
+    border-color: #4250f2;
+}
+
+
+::ng-deep .svd_container.svd_container .nav-tabs > li.active > a {
+    color: #3f6ad8;
+    background: #e0f3ff;
+    font-weight: bold;
+}
+::ng-deep .svd_container.svd_container a:hover {
+    color: #4e5bf2;
+}
+::ng-deep .svd_container .svd_toolbox .svd_toolbox_item:hover {
+    color: #4e5bf2;
+    background-color: #e0f3ff;
+    font-weight: bold;
+}
+::ng-deep .svd-designer-container__header-title {
+    font-size: 1.17em;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #3f6ad8;
+}
+::ng-deep .svd_container .svd_properties .svd_object_editor .form-control {
+    border-radius: 0.35rem;
+    height: calc(2.25rem + 19px);
+}
+::ng-deep .sv_main.sv_default_css .sv_progress_bar {
+    background-color: #727cf5;
+}
+
+::ng-deep.svd_container.svd_container .svd-secondary-icon .svd-svg-icon {
+    fill: #727cf5;
+}
+::ng-deep.svd_container.svd_container .form-control:focus {
+    border-color: #727cf5;
+}
+::ng-deep.svd_container { 
+    font-family: Nunito,sans-serif;
+    font-size: 12px;
+}
+::ng-deep .svd_container.svd_container .svd_custom_select::before {
+    background-color: #727cf5;
+}
+::ng-deep .svd-accordion-tab-header {
+    background-color: #e0f3ff;
+}
+::ng-deep.svd_container.svd_container .svd-main-color {
+    color:#727cf5;
+}
+::ng-deep.svd_container.svd_container .svd-primary-icon .svd-svg-icon {
+    fill: #727cf5;
+}
+::ng-deep.sv_main .sv_container .sv_body .sv_p_root .sv_q {
+     
+    overflow: auto; 
+    border: 1px solid gray;
+    border-left: 4px solid #727cf5;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+::ng-deep.svd_container.svd_container .question_actions.svd_question:hover {
+    border-top: 1px solid #4e5bf2;
+}
+::ng-deep .svd_container div:focus{
+    outline-color: #4e5bf2;
+}
+::ng-deep.sv_main.sv_default_css .sv_body {
+    background-color: white;
+    border-color: #727cf5;
+}
+::ng-deep .svd_container.svd_container .select2-container .select2-selection--single .select2-selection__arrow {
+    background: #727cf5;
+}
